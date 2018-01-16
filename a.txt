@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Erik Test
 Erik second test
+=======
+Erik Testa.txt
+b.txt
+>>>>>>> 47c2732489eaeda624838743306570d3d2f3a9b5
